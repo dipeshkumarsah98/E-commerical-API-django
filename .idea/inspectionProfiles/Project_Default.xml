@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="store.models.Product.object" />
+          <option value="store.models.Product.objects" />
+          <option value="store.models.Product.DoesNotExist" />
+          <option value="store.models.Collection.objects" />
+          <option value="store.models.Reviews.objects" />
+          <option value="store.models.OrderItem.objects" />
+          <option value="store.models.Review.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
